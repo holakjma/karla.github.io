@@ -1,5 +1,13 @@
-body{
-    display:block;
-    margin: 20px;
+section{
+    width:60%;
+    height:150px;
     background-color: aqua;
+    text-align: center;
+    margin: 0 auto;
+
+}
+h2{
+    color:#fff;
+    font-size: 36px;
+line-height: 150px;
 }
